@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Link from 'next/link'
 import React from 'react'
 import propertyImg from '../public/assets/projects/property.jpg'
 
@@ -12,6 +13,14 @@ const Projects = () => {
           
           <div className='relative flex items-center justify-center h-auto w-full shadow-xl shadoy-gray-400 rounded-xl p-4 group hover:bg-gradient-to-r from-[#5651e5] to[#709dfff]'>
             <Image className='rounded-xl group-hover:opacity-10' src={propertyImg} alt='/'/>
+            <div className='hidden group-hover:block absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]'>
+              <h3>Property Finder </h3>
+              <p>Reac JS</p>
+              <Link href='/'>
+
+              </Link>
+
+            </div>
 
           </div>
 
