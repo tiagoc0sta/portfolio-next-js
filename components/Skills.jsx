@@ -11,7 +11,7 @@ import Github from '../public/assets/skills/github.png';
 
 const Skills = () => {
   return (
-    <div classNasme='w-full lg:h-screen p-2'>
+    <div id='skills' classNasme='w-full lg:h-screen p-2'>
       <div className='max-w-[1240px] mx-auto flex flex-col justify-center h-full'>
         <p className='text-xl tracking-widest uppercase text-[#5651e5] font-bold'>Skills</p>
         <h2 className='py-4'>What I Can Do</h2>
