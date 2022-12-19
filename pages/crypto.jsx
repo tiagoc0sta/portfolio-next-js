@@ -1,17 +1,17 @@
 import Image from 'next/legacy/image'
 import React from 'react'
-import propertyImg from '../public/assets/projects/property.jpg'
+import cryptoImg from '../public/assets/projects/crypto.jpg'
 import {RiRadioButtonFill} from 'react-icons/ri'
 import Link from 'next/link'
 
-const property = () => {
+const crypto = () => {
   return (
     <div className='w-full'>
       <div className='w-screen h-[30vh] lg:h-[40vh] relative'>
         <div className='absolute top-0 left-0 w-full h-[30vh] lg:h-[40vh] bg-black/80 z-10'/>
-          <Image className='absolute z-1' layout='fill' objectFit='cover' src={propertyImg} alt='/'/>
+          <Image className='absolute z-1' layout='fill' objectFit='cover' src={cryptoImg} alt='/'/>
           <div className='absolute top-[70%] max-w[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10  p-2'>
-            <h2 className='py-2'>Property Finder</h2>
+            <h2 className='py-2'>Crypto App</h2>
             <h3>React JS / Tailwind / Firebase</h3>
           </div>
       </div>
@@ -19,14 +19,15 @@ const property = () => {
         <div className='col-span-4'>
           <p>Project</p>
           <h2>Overview</h2>
-          <p>This app was built using React JS and is hosted on Firebase. Users
-            are able to search properties based on an Address, City, or ZIP code
-            to retrieve a list of active properties currently for sale. You will
-            be able to view property information as well as the specific
-            location of the property integrated with the Google Maps API. User
-            authentication is available so you can signup and signin to your
-            account with an email address in order to save your favorite
-            properties. This is made possible with Zillow API.
+          <p>I built this app to demonstrate knowledge working in React JS and
+            accessing API endpoints. This app was built using React JS and is
+            hosted on Firebase. This application supports user authentication
+            using firebase. Users are able to create a new account using their
+            email address and can then sign in to save coins to a user specific
+            list. This is made possble by creating a firestore cloud storage
+            database at the time of user registration. Another feature of this
+            application is dynamic routing through the React Router DOM
+            package. This application was built using the Coin Gecko API.
           </p>
           <button className='px-8 py-2 mt-4 mr-8'>Demo</button>
           <button className='px-8 py-2 mt-4'>Code</button>
@@ -59,4 +60,4 @@ const property = () => {
   )
 }
 
-export default property
+export default crypto;
