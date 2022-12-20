@@ -54,8 +54,8 @@ const Navbar = () => {
           <Image 
             src='/../public/assets/navLogo.png' 
             alt='/' 
-            width='125' 
-            height='50'
+            width={125} 
+            height={50}
             />        
         </Link>
           <div>
