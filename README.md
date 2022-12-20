@@ -21,8 +21,7 @@ Technologies used:
 
 ## Acknowledgements
 
- - [ Figma Project - link here ](https://www.youtube.com/watch?v=AAXYX4LH6Bc&t=298s)
- 
+
 - To run:
 
 - yarn dev / yarn build  
@@ -43,10 +42,10 @@ Technologies used:
 
 ## Demo
 
-- [Online app (Netlify) - click here](https://calm-figolla-6050aa.netlify.app/)
+- [Online app (Netlify) - click here](https://bucolic-hotteok-afb3b8.netlify.app/)
 
-![image](https://user-images.githubusercontent.com/63982700/205425630-cb60f4f5-c38b-4353-9ad4-1357e1336512.png)
-![image](https://user-images.githubusercontent.com/63982700/205425758-23cc173a-ed7f-4be3-923f-42f99c602533.png)
-![image](https://user-images.githubusercontent.com/63982700/205425772-2acfc8dc-acab-423c-981e-7c069b9751e9.png)
-![image](https://user-images.githubusercontent.com/63982700/205425807-a49d8979-981f-4783-aa90-35eeddc68d75.png)
-
+![image](https://user-images.githubusercontent.com/63982700/208564557-923cb8cc-82ba-42df-93c3-f83c5111cbbc.png)
+![image](https://user-images.githubusercontent.com/63982700/208564584-64cb80e6-c7fb-4347-b73d-97a53d37d568.png)
+![image](https://user-images.githubusercontent.com/63982700/208564599-b304da9b-ebf0-4097-be06-f840fd630ea3.png)
+![image](https://user-images.githubusercontent.com/63982700/208564616-6e506629-81ee-4e92-8688-f146e3247c40.png)
+![image](https://user-images.githubusercontent.com/63982700/208564636-bc8cbff8-9d33-479a-8302-b4c2194ee75a.png)
