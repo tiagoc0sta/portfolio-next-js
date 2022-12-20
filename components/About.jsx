@@ -9,14 +9,14 @@ const About = () => {
         <div className='col-span-2'>
           <p className='uppercase text-xl tracking-widest text-[#5651e5] font-bold'>About</p>
           <h2 className='py-4'>Who I Am</h2>
-          <p className='py-2 text-gray-600 font-bold'>I'm an UX Researcher</p>
+          <p className='py-2 text-gray-600 font-bold'>I am an UX Researcher</p>
           <p className='py-2 text-gray-600 '>Hey!
-            I'm Christtiane, an UX Researcher!
-            Currently, I'm working as a UX Researcher on Creditas Fintech, expanding my training in the world of research based on user pain points.
+            I am Christtiane, an UX Researcher!
+            Currently, I am working as a UX Researcher on Creditas Fintech, expanding my training in the world of research based on user pain points.
           </p>
           <p className='py-2 text-gray-600 '>Hey!
-            I'm Christtiane, an UX Researcher!
-            Currently, I'm working as a UX Researcher on Creditas Fintech, expanding my training in the world of research based on user pain points.
+            I am Christtiane, an UX Researcher!
+            Currently, I am working as a UX Researcher on Creditas Fintech, expanding my training in the world of research based on user pain points.
           </p>
           <p className='py-2 text-gray-600 underline cursor-pointer'>Check out some of my latest projects.</p>
         </div>
