@@ -5,7 +5,8 @@ import { AiOutlineClose, AiOutlineMenu, AiOutlineMail } from 'react-icons/ai';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import { useRouter } from 'next/router';
-import navLlogo from '../public/assets/navLogo.svg';
+import navLogo from '../public/assets/navLogo.png';
+//import navLogo from '../public/assets/navLogo.svg';
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -56,7 +57,7 @@ const Navbar = () => {
     >
       <div className='flex justify-between items-center w-full h-full px-2 2xl:px-16'>
         <Link href='/'>
-          <Image src={navLlogo} alt='/' width={125} height={50} />
+          <Image src={navLogo} alt='logo' width={125} height={50} />
         </Link>
         <div>
           <ul style={{ color: `${linkColor}` }} className='hidden md:flex'>
