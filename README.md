@@ -1,48 +1,27 @@
+# Portfolio WebSite
 
-# Portfolio WebSite 
-React JS - Tailwind CSS - Next-js 
- Responsive Website 
-
-
+React JS - Tailwind CSS - Next-js
+Responsive Website
 
 Technologies used:
 
-- ReactJS 
+- ReactJS
 - NextJS
 - Tailwind
 
-
-
-
-
-
-
-
-
 ## Acknowledgements
-
 
 - To run:
 
-- yarn dev / yarn build  
-
-
-
- 
-
+- yarn dev / yarn build
 
 ## Authors
 
 - [ Code Commerce - link here ](https://www.youtube.com/watch?v=CMx51wpd7g4&t=166s)
- 
-
-
-
-
 
 ## Demo
 
-- [Online app (Netlify) - click here](https://bucolic-hotteok-afb3b8.netlify.app/)
+- [Online app (Netlify) - click here](https://sparkling-biscotti-552af8.netlify.app/#contact)
 
 ![image](https://user-images.githubusercontent.com/63982700/208564557-923cb8cc-82ba-42df-93c3-f83c5111cbbc.png)
 ![image](https://user-images.githubusercontent.com/63982700/208564584-64cb80e6-c7fb-4347-b73d-97a53d37d568.png)
