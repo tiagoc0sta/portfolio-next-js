@@ -13,7 +13,7 @@ const About = () => {
           </p>
 
           <p className='py-2 text-gray-600'>
-            Hello, I'm Chris Costa, a pharmacy graduate with ten years of
+            Hello, I&apos;m Chris Costa, a pharmacy graduate with ten years of
             experience in the field. In recent years, I focused on team
             management and process improvement at the major hospital in Espírito
             Santo, Brazil.

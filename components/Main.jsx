@@ -11,7 +11,9 @@ const Main = () => {
           <h1 className='py-4 text-gray-700 text-5xl'>
             Hi! My name is<span className='text-[#5651e5]'> Chris Costa</span>
           </h1>
-          <h1 className='py-2 text-gray-700 text-5xl'>I'm a UX Researcher</h1>
+          <h1 className='py-2 text-gray-700 text-5xl'>
+            I&apos;m a UX Researcher
+          </h1>
           <p className='py-4 text-gray-600 max-w-[70%] m-auto'>
             Based in Canada, I help teams make research a habit and turn
             insights into actionable product improvements.

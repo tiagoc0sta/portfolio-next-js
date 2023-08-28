@@ -31,7 +31,7 @@ const Contact = () => {
                 <p>UX Researcher</p>
               </div>
               <div>
-                <p className='pt-20'>Let's talk!</p>
+                <p className='pt-20'>Let&apos;s talk!</p>
                 <div className='flex items-center justify-between py-4'>
                   <a
                     className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'
