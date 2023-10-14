@@ -26,6 +26,18 @@ const Projects = () => {
             backgroundImg={farma2Img}
             projectUrl='/netflix'
           />
+
+          <ProjectItem
+            title='Netflix'
+            backgroundImg={farma2Img}
+            projectUrl='/netflix'
+          />
+
+          <ProjectItem
+            title='Netflix'
+            backgroundImg={farma2Img}
+            projectUrl='/netflix'
+          />
         </div>
       </div>
     </div>
