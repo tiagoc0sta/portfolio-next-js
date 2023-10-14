@@ -1,11 +1,11 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import propertyImg from '../public/assets/projects/property.jpg';
-import cryptoImg from '../public/assets/projects/crypto.jpg';
 import netflixImg from '../public/assets/projects/netflix.jpg';
-import twitchImg from '../public/assets/projects/twitch.jpg';
+import farma2Img from '../public/assets/projects/farma2.jpg';
 import ProjectItem from './ProjectItem';
+
+import farmaImg from '../public/assets/projects/farma.jpg';
 
 const Projects = () => {
   return (
@@ -17,23 +17,14 @@ const Projects = () => {
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
             title='Property Finder'
-            backgroundImg={propertyImg}
-            projectUrl='/property'
+            backgroundImg={farmaImg}
+            projectUrl='https://uxfol.io/p/6bd5c6e8/034c2487'
           />
-          <ProjectItem
-            title='Crypto App'
-            backgroundImg={cryptoImg}
-            projectUrl='/crypto'
-          />
+
           <ProjectItem
             title='Netflix'
-            backgroundImg={netflixImg}
+            backgroundImg={farma2Img}
             projectUrl='/netflix'
-          />
-          <ProjectItem
-            title='Twitch'
-            backgroundImg={twitchImg}
-            projectUrl='/twitch'
           />
         </div>
       </div>

@@ -56,7 +56,7 @@ const Main = () => {
 
             <a
               className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'
-              href='https://drive.google.com/file/d/11XePWqBzBkdiic6Unms_IfQYdcBpUZg2/view?usp=drive_link'
+              href='https://medium.com/@christtiane'
               target='_blank'
               rel='noopener noreferrer'
             >
