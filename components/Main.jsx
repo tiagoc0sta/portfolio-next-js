@@ -1,7 +1,7 @@
 import React from 'react';
 import { AiOutlineMail } from 'react-icons/ai';
-import { BsFillPersonLinesFill } from 'react-icons/bs';
-import { FaGithub, FaLinkedin, FaLinkedinIn } from 'react-icons/fa';
+import { BsFillPersonLinesFill, BsMedium } from 'react-icons/bs';
+import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 
 const Main = () => {
   return (
@@ -9,7 +9,7 @@ const Main = () => {
       <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
         <div>
           <p className='upepercase text-sm tracking-widest text-gray-600'>
-            WE CAN BUILD SOMETHING TOGETHER
+            WE CAN BUILD SOMETHING TOGETHERR
           </p>
           <h1 className='py-4 text-gray-700'>
             Hi, I am <span className='text-[#5651e5]'> Chris</span>
@@ -31,7 +31,7 @@ const Main = () => {
             </a>
             <a
               className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'
-              href='https://github.com/tiagoc0sta'
+              href='https://github.com/Christtiane'
               target='_blank'
               rel='noopener noreferrer'
             >
@@ -52,6 +52,15 @@ const Main = () => {
               rel='noopener noreferrer'
             >
               <BsFillPersonLinesFill />
+            </a>
+
+            <a
+              className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'
+              href='https://drive.google.com/file/d/11XePWqBzBkdiic6Unms_IfQYdcBpUZg2/view?usp=drive_link'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              <BsMedium />
             </a>
           </div>
         </div>

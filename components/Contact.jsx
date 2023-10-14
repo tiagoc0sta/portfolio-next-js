@@ -61,7 +61,7 @@ const Contact = () => {
                   </a>
                   <a
                     className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'
-                    href='https://drive.google.com/file/d/15U4nV-owRHf-TVUPV0ruhN8AjjsZx-d4/view?usp=sharing'
+                    href='https://drive.google.com/file/d/11XePWqBzBkdiic6Unms_IfQYdcBpUZg2/view?usp=drive_link'
                     target='_blank'
                     rel='noopener noreferrer'
                   >
@@ -75,7 +75,10 @@ const Contact = () => {
           {/*Right*/}
           <div className='col-span-3 w-full h-auto shadow-xl shadow-gray-400 rounded-xl lg:p-4'>
             <div className='p-4'>
-              <form>
+              <form
+                method='POST'
+                action='https://getform.io/f/9ed5ef20-9dfc-49e0-a5c9-b7668ab26835'
+              >
                 <div className='grid md:grid-cols-2 gap-4 w-full py-2'>
                   <div className='flex flex-col'>
                     <label className='uppercase text-sm py-2'>Name</label>
