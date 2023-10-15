@@ -11,7 +11,7 @@ const Contact = () => {
   return (
     <div id='contact' className='w-full lg:h-screen'>
       <div className='max-w-[1240px] m-auto px-2 py-20 w-full '>
-        <p className='uppercase text-xl tracking-widest text-[#5651e5] font-bold py-4'>
+        <p className='uppercase text-xl tracking-widest text-[#000000] font-bold py-4'>
           Contact
         </p>
 
@@ -76,8 +76,8 @@ const Contact = () => {
           <div className='col-span-3 w-full h-auto shadow-xl shadow-gray-400 rounded-xl lg:p-4'>
             <div className='p-4'>
               <form
+                action='https://getform.io/f/7ca3fda7-c1f0-4c34-b201-6807d0e21b1d'
                 method='POST'
-                action='https://getform.io/f/9ed5ef20-9dfc-49e0-a5c9-b7668ab26835'
               >
                 <div className='grid md:grid-cols-2 gap-4 w-full py-2'>
                   <div className='flex flex-col'>
@@ -85,6 +85,7 @@ const Contact = () => {
                     <input
                       className='border-2 rounded-lg p-3 flex border-gray-300'
                       type='text'
+                      name='name'
                     />
                   </div>
 
@@ -95,6 +96,7 @@ const Contact = () => {
                     <input
                       className='border-2 rounded-lg p-3 flex border-gray-300'
                       type='text'
+                      name='phone'
                     />
                   </div>
                 </div>
@@ -103,6 +105,7 @@ const Contact = () => {
                   <input
                     className='border-2 rounded-lg p-3 flex border-gray-300'
                     type='email'
+                    name='email'
                   />
                 </div>
                 <div className='flex flex-col py-2'>
@@ -110,6 +113,7 @@ const Contact = () => {
                   <input
                     className='border-2 rounded-lg p-3 flex border-gray-300'
                     type='text'
+                    name='subject'
                   />
                 </div>
                 <div className='flex flex-col py-2'>
@@ -117,6 +121,7 @@ const Contact = () => {
                   <textarea
                     className='border-2 rounded-lg p-3 border-gray-300'
                     rows='4'
+                    name='textArea'
                   ></textarea>
                 </div>
                 <button className='w-full p-4 text-gray-100 mt-4'>
