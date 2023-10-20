@@ -21,7 +21,7 @@ Technologies used:
 
 ## Demo
 
-- [Online app (Netlify) - click here](https://sparkling-biscotti-552af8.netlify.app/#contact)
+-- [Online app (Netlify) - click here](https://sparkling-biscotti-552af8.netlify.app/#contact)
 
 ![image](https://user-images.githubusercontent.com/63982700/208564557-923cb8cc-82ba-42df-93c3-f83c5111cbbc.png)
 ![image](https://user-images.githubusercontent.com/63982700/208564584-64cb80e6-c7fb-4347-b73d-97a53d37d568.png)
