@@ -12,6 +12,18 @@ const About = () => {
             About
           </p>
 
+          <blockquote>
+            <span class='relative'>
+              <span
+                class='block absolute -inset-0 -skew-x-0 bg-[#feef38]'
+                aria-hidden='true'
+              ></span>
+              <span className='relative uppercase text-xl tracking-widest text-[#000000] font-bold py-4'>
+                About
+              </span>
+            </span>
+          </blockquote>
+
           <p className='py-2 text-gray-600'>
             Hello, I&apos;m Chris Costa, a pharmacy graduate with ten years of
             experience in the field. In recent years, I focused on team

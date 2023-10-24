@@ -30,7 +30,7 @@ const Main = () => {
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a
-              className=' rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300 '
+              className=' rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300 bg-gradient-to-b from-[#feef38] to-[#f2f2c3]'
               href='https://www.linkedin.com/in/christtiane/'
               target='_blank'
               rel='noopener noreferrer'
@@ -38,7 +38,7 @@ const Main = () => {
               <FaLinkedinIn />
             </a>
             <a
-              className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'
+              className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300 bg-gradient-to-b from-[#feef38] to-[#fbfbb5]'
               href='https://github.com/Christtiane'
               target='_blank'
               rel='noopener noreferrer'
@@ -46,7 +46,7 @@ const Main = () => {
               <FaGithub />
             </a>
             <a
-              className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'
+              className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300 bg-gradient-to-b from-[#feef38] to-[#ffffa8]'
               href='mailto:christtianec@gmail.com'
               target='_blank'
               rel='noopener noreferrer'
@@ -54,7 +54,7 @@ const Main = () => {
               <AiOutlineMail />
             </a>
             <a
-              className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'
+              className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300 bg-gradient-to-b from-[#feef38] to-[#fafa83]'
               href='https://drive.google.com/file/d/11XePWqBzBkdiic6Unms_IfQYdcBpUZg2/view?usp=drive_link'
               target='_blank'
               rel='noopener noreferrer'
@@ -63,7 +63,7 @@ const Main = () => {
             </a>
 
             <a
-              className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'
+              className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300 bg-gradient-to-b from-[#feef38] to-[#fbfb4f]'
               href='https://medium.com/@christtiane'
               target='_blank'
               rel='noopener noreferrer'
