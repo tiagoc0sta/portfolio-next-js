@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React, { useState } from 'react';
 import { AiOutlineMail } from 'react-icons/ai';
-import { BsFillPersonLinesFill } from 'react-icons/bs';
+import { BsFillPersonLinesFill, BsMedium } from 'react-icons/bs';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import { HiOutlineChevronDoubleUp } from 'react-icons/hi';
 import ContactImg from '../public/assets/contact.jpg';
@@ -66,6 +66,14 @@ const Contact = () => {
                     rel='noopener noreferrer'
                   >
                     <BsFillPersonLinesFill />
+                  </a>
+                  <a
+                    className='rounded-full shadow-lg shaddow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'
+                    href='https://medium.com/@christtiane'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                  >
+                    <BsMedium />
                   </a>
                 </div>
               </div>
