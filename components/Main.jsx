@@ -8,13 +8,23 @@ const Main = () => {
     <div id='home' className='w-full h-screen text-center'>
       <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
         <div>
-          <p className='upepercase text-sm tracking-widest text-gray-600'></p>
-          <h1 className='py-4 text-black'>
-            Hi, I am <span className='text-[#5651e5]'> Chris</span>
-          </h1>
-          <h1 className='py-2 text-black'>An UX Researcher</h1>
+          <blockquote>
+            <p className='upepercase text-sm tracking-widest text-gray-600'></p>
+            <h1 className='py-4 text-black '>
+              Hi, I am
+              <span class='relative'>
+                <span
+                  class='block absolute -inset-0 -skew-y-2 bg-[#feef38]'
+                  aria-hidden='true'
+                ></span>
+                <span className='relative text-[#050505]'>Chris</span>
+              </span>
+            </h1>
+          </blockquote>
+
+          <h1 className='py-2 text-black'>UX Researcher</h1>
           <p className='py-4 text-gray-600 max-w-[70%] m-auto'>
-            I am specialized in building and designing exceptional UI
+            I am specialized in building and designing exceptional UX
             experiences. Currently, I am focused on building responsive web
             applications.
           </p>
