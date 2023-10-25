@@ -17,7 +17,7 @@ Technologies used:
 
 ## Authors
 
-- [ Code Commerce - link here ](https://www.youtube.com/watch?v=CMx51wpd7g4&t=166s)
+-- [ Code Commerce - link here ](https://www.youtube.com/watch?v=CMx51wpd7g4&t=166s)
 
 ## Demo
 
