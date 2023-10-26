@@ -27,17 +27,6 @@ const Projects = () => {
             projectUrl='https://medium.com/creditas-tech/como-criamos-as-personas-internas-da-creditas-aliando-ux-a-people-3a5a83d89726'
           />
 
-          <ProjectItem
-            title='Netflix'
-            backgroundImg={farma2Img}
-            projectUrl='https://uxfol.io/p/6bd5c6e8/034c2487'
-          />
-
-          <ProjectItem
-            title='Netflix'
-            backgroundImg={farma2Img}
-            projectUrl='https://uxfol.io/p/6bd5c6e8/034c2487'
-          />
         </div>
       </div>
     </div>

@@ -12,6 +12,8 @@ const About = () => {
             About
           </p>
 
+          {/* Auto em amarelo se for necessário
+          
           <blockquote>
             <span class='relative'>
               <span
@@ -22,7 +24,7 @@ const About = () => {
                 About
               </span>
             </span>
-          </blockquote>
+          </blockquote> */}
 
           <p className='py-2 text-gray-600'>
             Hello, I&apos;m Chris Costa, a pharmacy graduate with ten years of
