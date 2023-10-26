@@ -25,8 +25,7 @@ const Main = () => {
           <h1 className='py-2 text-black'>UX Researcher</h1>
           <p className='py-4 text-gray-600 max-w-[70%] m-auto'>
             I am specialized in building and designing exceptional UX
-            experiences. Currently, I am focused on building responsive web
-            applications.
+            experiences. 
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a
